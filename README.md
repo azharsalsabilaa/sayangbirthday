@@ -1,1 +1,1 @@
-see live (https://faahim.github.io/happy-birthday/)
+[See it Live](https://faahim.github.io/happy-birthday/)
